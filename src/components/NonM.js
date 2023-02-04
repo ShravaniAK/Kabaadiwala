@@ -77,10 +77,8 @@ class Dump extends React.Component{
     render(){
         return(
             <>
-            
-            
             <Navbar/>
-            <h1 style={{color:"red"}}>Red Pointer is where you will find Dumping sites!</h1>
+            <h1 style={{color:"red"}}>Red Pointer is where you will find Donation centers!</h1>
             <div>
                 <div ref={el => this.mapContainer = el} style={
                     {width:'100%' , height:'100vh'}

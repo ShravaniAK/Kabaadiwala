@@ -1,0 +1,21 @@
+.donate{
+    height:70vh;
+    background-color: black;
+    color:white;
+
+}
+.donate h1{
+    text-align: center;
+    padding: 4rem;
+
+}
+.btns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btns button{
+    padding: 1rem;
+    margin: 1rem;
+    color:black;
+}
