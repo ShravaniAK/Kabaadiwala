@@ -1,0 +1,18 @@
+.navbar{
+    min-height: 10vh;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    position: sticky;
+}
+.side ul {
+    display: flex;
+    list-style: none;
+    float:right;
+}
+.side ul li{
+    margin-left: 2rem;
+    text-decoration: none;
+    color: black;
+   
+}
