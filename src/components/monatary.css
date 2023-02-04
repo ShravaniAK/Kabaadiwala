@@ -260,9 +260,7 @@ form{
 	transition: all 0.15s ease-out;
 }
 
-.checkbox:active, .checkbox:checked:active {
-	
-}
+
 
 .checkbox:checked {
 	background-color: #C1D82F;
